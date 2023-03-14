@@ -25,3 +25,33 @@
 #booleaner{
     color: rgb(11, 88, 114);
 }
+
+.photo{
+    width: 100%;
+}
+
+#description{
+    font-size: 15px;
+}
+
+.text-yellow{
+    background-color: yellow;
+}
+
+ul{
+    padding-top: 20px;
+}
+
+table{
+    width: 100%;
+    padding-top: 20px;
+    border-spacing: 0;
+}
+
+thead{
+    background-color: rgb(69, 69, 248);
+}
+
+.color-table{
+    background-color: rgb(48, 203, 255);
+}
